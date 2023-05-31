@@ -1,6 +1,5 @@
 # git-e-versionamento
 
-santander digital course
+(revendo os conceitos)
 
-testando os conhecimentos..
-
+Em desenvolvimento.
